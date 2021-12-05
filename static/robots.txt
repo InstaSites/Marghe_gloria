@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://Marghe.photos/sitemap.xml
